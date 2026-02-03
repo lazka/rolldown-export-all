@@ -8,4 +8,4 @@ TypeError: __exportAll is not a function
 Two ways to make it work again:
 
 * Disable `chunkOptimization` in `rollup.config.js`
-* Use `rolldown@1.0.0-beta.58`
+* Use `rolldown@1.0.0-rc.1`
