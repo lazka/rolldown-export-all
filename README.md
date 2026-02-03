@@ -1,6 +1,6 @@
-npm install
-npm run build
-npm run test
+* npm install
+* npm run build
+* npm run test
 
 ```
 TypeError: __exportAll is not a function
